@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOV5_data/images/train
+val: /content/drive/MyDrive/YOLOV5_data/images/valid
+
+nc: 2
+names: [ 'Cricketball','Football']
